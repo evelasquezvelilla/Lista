@@ -1,5 +1,9 @@
-Nombre: Carlos Andrés Zambrano Dueñas.
+﻿Nombre: Carlos Andrés Zambrano Dueñas.
 Edad: 26 años.
+<<<<<<< HEAD
 Ciudad natal: Bogotá.
 
 Este cambio es para saber que es lo que debo hacer
+=======
+Ciudad natal: Bogotá. ZzZzZz
+>>>>>>> 467c83a1f513444d8d9c289afefb6589098e70ca
